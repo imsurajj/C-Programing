@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "1.C": "cpp",
+        "2.C": "cpp",
+        "3.C": "cpp",
+        "4.C": "cpp",
+        "pre or postfix.C": "cpp",
+        "logical operator.C": "cpp",
+        "ask salary, empid.C": "cpp",
+        "square and cube.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
