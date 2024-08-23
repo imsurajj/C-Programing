@@ -4,5 +4,5 @@
 ### 📌 Check out all the programs 
 [1. Program on logical and relational Operators](./logical-operator.c)
 
-[ 2. Program to ask user for empid, age and salary and display them](./ask-salary-empid.C)
+[ 2. Program to Ask the user for Empid, Age and Salary and display the same](./ask-salary-empid.C)
      
