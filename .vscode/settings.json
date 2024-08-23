@@ -9,7 +9,10 @@
         "ask salary, empid.C": "cpp",
         "square and cube.C": "cpp",
         "logical-operator.C": "cpp",
-        "ask-salary-empid.C": "cpp"
+        "ask-salary-empid.C": "cpp",
+        "logical operators.C": "cpp",
+        "prefix and postfix.C": "cpp",
+        "logical & Relational operators.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
