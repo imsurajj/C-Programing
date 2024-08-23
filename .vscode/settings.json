@@ -7,7 +7,8 @@
         "pre or postfix.C": "cpp",
         "logical operator.C": "cpp",
         "ask salary, empid.C": "cpp",
-        "square and cube.C": "cpp"
+        "square and cube.C": "cpp",
+        "logical-operator.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
