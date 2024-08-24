@@ -6,3 +6,4 @@
 
 [ 2. Program to Ask the user for Empid, Age and Salary and display the same](./ask-salary-empid.C)
      
+[ 3. Program on the Switch Operator Cases](./switch%20operator.C)

@@ -12,7 +12,8 @@
         "ask-salary-empid.C": "cpp",
         "logical operators.C": "cpp",
         "prefix and postfix.C": "cpp",
-        "logical & Relational operators.C": "cpp"
+        "logical & Relational operators.C": "cpp",
+        "Switchoperator.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
