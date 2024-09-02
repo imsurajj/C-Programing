@@ -13,3 +13,5 @@
 [ 5. Program on Square and Cube](./square%20and%20cube.C)
 
 [ 6. Program on Switch Operator](./Switchoperator.C)
+
+[ 7. Program on Count Number of Digits](./Count%20number%20of%20digits.C)
