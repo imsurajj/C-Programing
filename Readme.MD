@@ -7,3 +7,9 @@
 [ 2. Program to Ask the user for Empid, Age and Salary and display the same](./ask-salary-empid.C)
      
 [ 3. Program on the Switch Operator Cases](./Switchoperator.C)
+
+[ 4. Program on Prefix and Postfix Operators](./Prefix%20and%20Postfix.C)
+
+[ 5. Program on Square and Cube](./square%20and%20cube.C)
+
+[ 6. Program on Switch Operator](./Switchoperator.C)
