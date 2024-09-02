@@ -12,6 +12,12 @@
 
 [ 5. Program on Square and Cube](./square%20and%20cube.C)
 
-[ 6. Program on Switch Operator](./Switchoperator.C)
+[ 6. Program on Count Number of Digits](./Count%20number%20of%20digits.C)
 
-[ 7. Program on Count Number of Digits](./Count%20number%20of%20digits.C)
+[ 7. Program on Reverse of Digits](./Reverse%20of%20Digits.C)
+
+[ 8. Program on Factorial of a number](./Factorial%20of%20a%20number.C)
+
+[ 9. Program on Print the Complete series](./print%20the%20series.c)
+
+### 💫 Adding More Program soon.....!!
