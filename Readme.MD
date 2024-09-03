@@ -1,4 +1,4 @@
-# 👋 My C Programs : 10 Programs # 
+# 👋 All Important C Programs # 
 #### All the C Program Question With the solutions is Here. ####
 
 ### 📌 Check out all the programs 
