@@ -8,15 +8,15 @@
      
 [ 3. Program on the Switch Operator Cases](./Switchoperator.C)
 
-[ 4. Program on Prefix and Postfix Operators](./Prefix%20and%20Postfix.C)
+[ 4. Program on Prefix and Postfix Operators](./prefix%20and%20postfix.C)
 
 [ 5. Program on Square and Cube](./square%20and%20cube.C)
 
-[ 6. Program on Count Number of Digits](./Count%20number%20of%20digits.C)
+[ 6. Program on Count Number of Digits](./count%20number%20of%20digits.c)
 
-[ 7. Program on Reverse of Digits](./Reverse%20of%20Digits.C)
+[ 7. Program on Reverse of Digits](./Reverse%20of%20Digits.c)
 
-[ 8. Program on Factorial of a number](./Factorial%20of%20a%20number.C)
+[ 8. Program on Factorial of a number](./Reverse%20of%20Digits.c)
 
 [ 9. Program on Print the Complete series](./print%20the%20series.c)
 
