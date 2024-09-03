@@ -1,5 +1,5 @@
 # 👋 My C Programs : 10 Programs # 
-#### All the C Program Question and Answers are here . ####
+#### All the C Program Question With the solutions is Here. ####
 
 ### 📌 Check out all the programs 
 [1. Program on logical and relational Operators](./logical%20&%20Relational%20operators.C)
