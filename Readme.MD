@@ -20,4 +20,6 @@
 
 [ 9. Program on Print the Complete series](./print%20the%20series.c)
 
+[ 10. Program on Average marks of 50 students using array](./avg-using-array.c)
+
 ### 💫 Adding More Program soon.....!!
