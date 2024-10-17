@@ -22,4 +22,12 @@
 
 [ 10. Program on Average marks of 50 students using array](./avg-using-array.c)
 
+[ 11. Program on Matrix Addition](./matrix-add.c)
+
+[ 12. Program on Matrix Multiplication](./matrix-multiply.c)
+
+[ 13. Program on Matrix Transpose](./matrix-transpose.c)
+
+[ 14. Program on Palindrome using Array ](./palindrome-using-array.c)
+
 ### 💫 Adding More Program soon.....!!
